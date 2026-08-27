@@ -1,2 +1,2 @@
-pydantic-ai==0.4.10
-GitPython==3.1.45
+pydantic-ai==1.106.0
+GitPython==3.1.58
